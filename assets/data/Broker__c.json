@@ -1,0 +1,16 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef1"
+            },
+            "Name": "Broker1",
+            "Email__c": "mrbroker1@acme.com",
+            "Title__c": "Mr.",
+            "Properties__r": {
+                "records": []
+            }
+        }
+    ]
+}
