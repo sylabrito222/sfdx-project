@@ -1,0 +1,34 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Broker__c",
+                "referenceId": "Broker__cRef1"
+            },
+            "Name": "Broker1",
+            "Email__c": "mrbroker1@acme.com",
+            "Title__c": "Mr.",
+            "Properties__r": {
+                "records": [
+                    {
+                        "attributes": {
+                            "type": "Property__c",
+                            "referenceId": "Property__cRef1"
+                        },
+                        "Address__c": "R Jose Jorge Duarte 19",
+                        "Baths__c": 3,
+                        "Beds__c": 2,
+                        "City__c": "04930270",
+                        "Date_Listed__c": "2021-01-01",
+                        "Price__c": 500000,
+                        "Name": "SAB2",
+                        "State__c": "São Paulo",
+                        "Status__c": "Available",
+                        "Title__c": "SAB2",
+                        "Zip__c": "04930270"
+                    }
+                ]
+            }
+        }
+    ]
+}
